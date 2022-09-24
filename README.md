@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mentalboy56
 - 👀 I’m interested in green hacking
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning javascript sql html and paython
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
